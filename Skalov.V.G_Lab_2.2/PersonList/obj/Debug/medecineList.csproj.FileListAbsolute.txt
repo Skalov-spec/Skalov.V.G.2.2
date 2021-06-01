@@ -1,0 +1,7 @@
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\obj\Debug\medecineList.csprojAssemblyReference.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\obj\Debug\medecineList.csproj.CoreCompileInputs.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\bin\Debug\PersonList.exe.config
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\bin\Debug\PersonList.exe
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\bin\Debug\PersonList.pdb
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\obj\Debug\PersonList.exe
+D:\навчання\донну\програм\Я\2 с\якась робоат\PersonList\PersonList\obj\Debug\PersonList.pdb
